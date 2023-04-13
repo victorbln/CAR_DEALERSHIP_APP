@@ -39,9 +39,9 @@ namespace CAR_DEALERSHIP
                 Console.WriteLine("P. Show car properties");
                 Console.WriteLine("S. Save inventory");
                 Console.WriteLine("D. Sell car");
-                Console.WriteLine("V. View sold cars");
-                Console.WriteLine("M. Show cars sold in current month");
-                Console.WriteLine("N. Show available cars");
+                //Console.WriteLine("V. View sold cars");
+                //Console.WriteLine("M. Show cars sold in current month");
+                //Console.WriteLine("N. Show available cars");
                 Console.WriteLine("X. Stop program");
                 Console.WriteLine("Choose an option: ");
 
